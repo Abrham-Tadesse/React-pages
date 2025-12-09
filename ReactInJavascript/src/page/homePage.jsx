@@ -9,7 +9,7 @@ export function HomePage(){
     return(
     <>
     <NavigationBar />
-    <Home />
+    <Home name = {"Kebede"}/>
     <Footer/>
     </>
     )

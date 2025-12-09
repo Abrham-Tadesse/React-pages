@@ -6,9 +6,9 @@ export function Footer(){
     return(
         <>
         <div className="foot">
-        <a href="google.com">more</a>
-        <a href="mailto:atadasse976@gmail.com"> e-mail</a>
-        <a href="0948263497">contact</a>
+        <p><a href="google.com">more</a></p>
+        <p><a href="mailto:atadasse976@gmail.com"> e-mail</a></p>
+        <p><a href="0948263497">contact</a></p>
         </div>
         </>
     )
